@@ -12,7 +12,7 @@ Yêu cầu:
 ## Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
 ## Giao diện
 [Trang My profile]( https://daumarauxanh97.github.io/thucHanh2/th2)
--[ảnh](https://daumarauxanh97.github.io/thucHanh2/My-profile.png)
+-[ảnh](https://daumarauxanh97.github.io/thucHanh2/images/My-profile.png)
 ## Kiến thức nắm được
 
 Sử dụng 1 base code html
