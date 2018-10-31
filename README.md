@@ -11,8 +11,8 @@ Yêu cầu:
 - images
 ## Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
 ## Giao diện
-[Trang Tinyone]( https://daumarauxanh97.github.io/thucHanh2/th2)
--[ảnh](https://daumarauxanh97.github.io/thang97.github.io/images/tinyone-1.png)
+[Trang My profile]( https://daumarauxanh97.github.io/thucHanh2/th2)
+-[ảnh](https://daumarauxanh97.github.io/thucHanh2/My-profile.png)
 ## Kiến thức nắm được
 
 Sử dụng 1 base code html
