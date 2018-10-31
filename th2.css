@@ -149,6 +149,7 @@ body{
 	height: 420px;
 }
 .title{
+	color: #262626;
 	font-size: 36px;
 	padding: 20px 30px 10px 30px ;
 }
@@ -161,10 +162,9 @@ body{
 	padding-left: 20px;
 }
 .name{
-	padding-bottom: 10px;
 	padding-left: 10px;
 	color: #333333;
-	font-size:24px; 
+	font-size:22px; 
 }
 .time{
 	font-size:24px; 
@@ -177,6 +177,9 @@ body{
 	font-size: 28px;
 	padding: 10px 30px 10px 30px ;
 	color: #262626;
+	-webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 .container5{
 	height: 300px;
